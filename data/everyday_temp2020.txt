@@ -1,0 +1,3 @@
+filename: 2020.csv
+Погода в Якутске. Температура воздуха и осадки. 2020 by months
+http://pogodaiklimat.ru/monitor.php?id=24959&month=12&year=2020
